@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋  
+My name is $jsufkd, but you can just call me Rustem.
 
-<!--
-**Rustem-minetov/Rustem-minetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a student and actively learning programming.
 
-Here are some ideas to get you started:
+💻 Languages I work with:
+- Kotlin  
+- PHP  
+- Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm constantly improving my skills and building projects.
+
+🎹 Besides programming, I play the piano.  
+🏀 I also enjoy playing basketball.
+
+---
+
+📌 Always open to learning new things and working on interesting ideas.
+
+
+
+<img width="510" height="504" alt="изображение" src="https://github.com/user-attachments/assets/fe876717-258c-4925-a94c-70d1a0500766" />
