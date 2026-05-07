@@ -26,7 +26,7 @@ My name is $jsufkd, but you can just call me Rustem.
 <td width="45%">
 
 <pre>
-<img width="1280" height="720" alt="photo_2026-05-08_00-10-45" src="https://github.com/user-attachments/assets/678de88c-260a-4af5-85f8-5be2257978e0" />
+<img width="1800" height="1800" alt="photo_2026-05-08_00-10-45" src="https://github.com/user-attachments/assets/678de88c-260a-4af5-85f8-5be2257978e0" />
 
 </pre>
 
